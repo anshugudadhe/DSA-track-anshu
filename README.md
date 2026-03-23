@@ -12,14 +12,17 @@ My journey to improve Data Structures & Algorithms in Java.
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
