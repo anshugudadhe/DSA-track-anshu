@@ -54,4 +54,8 @@ My journey to improve Data Structures & Algorithms in Java.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0124-binary-tree-maximum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
