@@ -58,4 +58,12 @@ My journey to improve Data Structures & Algorithms in Java.
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0328-odd-even-linked-list) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
