@@ -62,8 +62,17 @@ My journey to improve Data Structures & Algorithms in Java.
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshugudadhe/DSA-track-anshu/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
